@@ -2,6 +2,8 @@
 
 This repository contains an implementation of a collision detection algorithm for UAVs using event cameras and the data of 9 recorded sequences, includes the events and the imu information. The algorithm takes as input the stream of events from the camera and outputs the locations of the dynamic objeccts within the scene.
 
+Access data through this link: https://drive.google.com/drive/folders/1lhNRML8HVNRZbxZB26XQtKz80BL1BURB?usp=share_link
+
 Prerequisites
 Python 3.x
 Numpy
